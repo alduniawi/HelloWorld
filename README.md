@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 <h4>Here's a walkthrough of implemented features:</h4>
 
-<img src='https://i.imgur.com/KEeftLM.gif' title='Video Walkthrough' width="" height="600" alt='Video Walkthrough' />
+<img src='https://i.imgur.com/KEeftLM.gif' title='Video Walkthrough' width="450" height="600" alt='Video Walkthrough' />
 
 
 
