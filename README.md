@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='https://i.imgur.com/KEeftLM.gif' title='Video Walkthrough' width='' height="400" alt='Video Walkthrough' />
+<img src='https://i.imgur.com/KEeftLM.gif' title='Video Walkthrough' width='' height="500" alt='Video Walkthrough' />
 
 
 
